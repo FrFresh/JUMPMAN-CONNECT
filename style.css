@@ -1,0 +1,252 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:700,600,400");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/65c1e8e0260467af8aa0bfa2.65c1e8e1260467af8aa0bfa5.ajQtFbF.hcp.png");
+
+
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+/* screen - frame-2 */
+
+.frame-2 {
+    align-items: center;
+    background-color: var(--white);
+    display: flex;
+    flex-direction: column;
+    height: 411px;
+    padding: 7.6px 20px;
+    width: 478px;
+  }
+  
+  .frame-2 .flex-row {
+    align-items: flex-start;
+    align-self: flex-end;
+    display: flex;
+    margin-right: 8px;
+    margin-top: 2px;
+    min-width: 369px;
+  }
+  
+  .frame-2 .title {
+    color: var(--black);
+    font-family: var(--font-family-istok_web-regular);
+    font-size: 41px;
+    font-weight: 400;
+    letter-spacing: 3.69px;
+    line-height: normal;
+    margin-top: 5px;
+    min-height: 35px;
+    text-align: center;
+    white-space: nowrap;
+    width: 92px;
+  }
+  
+  .frame-2 .overlap-group {
+    height: 57px;
+    margin-left: 18px;
+    position: relative;
+    width: 57px;
+  }
+  
+  .frame-2 .rectangle-1 {
+    background-color: #c2f5fc;
+    height: 37px;
+    left: 2px;
+    position: absolute;
+    top: 13px;
+    width: 53px;
+  }
+  
+  .frame-2 .jumpman_logo-1 {
+    height: 57px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 57px;
+  }
+  
+  .frame-2 .connect {
+    color: var(--black);
+    font-family: var(--font-family-istok_web-regular);
+    font-size: 41px;
+    font-weight: 400;
+    letter-spacing: 2.87px;
+    line-height: normal;
+    margin-left: 3px;
+    margin-top: 5px;
+    min-height: 35px;
+    text-align: center;
+    white-space: nowrap;
+    width: 199px;
+  }
+  
+  .frame-2 .navbar-link-container {
+    align-items: flex-start;
+    display: flex;
+    height: 12px;
+    margin-right: 28.0px;
+    margin-top: 3px;
+    min-width: 314px;
+  }
+  
+  .frame-2 .navbar-link-place {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 12px;
+    text-align: center;
+    width: 46px;
+  }
+  
+  .frame-2 .navbar-link-gallery {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 35px;
+    min-height: 12px;
+    text-align: center;
+    width: 46px;
+  }
+  
+  .frame-2 .navbar-link-connect {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 53px;
+    min-height: 12px;
+    text-align: center;
+    width: 46px;
+  }
+  
+  .frame-2 .navbar-link-about-us {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 42px;
+    min-height: 12px;
+    text-align: center;
+    width: 46px;
+  }
+  
+  .frame-2 .overlap-group1 {
+    height: 124px;
+    margin-right: 2.0px;
+    margin-top: 56px;
+    position: relative;
+    width: 356px;
+  }
+  
+  .frame-2 .rectangle-8 {
+    height: 90px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 16px;
+    width: 131px;
+  }
+  
+  .frame-2 .rectangle-5 {
+    height: 90px;
+    left: 0;
+    position: absolute;
+    top: 16px;
+    width: 131px;
+  }
+  
+  .frame-2 .rectangle-9 {
+    height: 90px;
+    left: 225px;
+    object-fit: cover;
+    position: absolute;
+    top: 16px;
+    width: 131px;
+  }
+  
+  .frame-2 .rectangle-6 {
+    height: 90px;
+    left: 225px;
+    position: absolute;
+    top: 16px;
+    width: 131px;
+  }
+  
+  .frame-2 .rectangle-7 {
+    height: 124px;
+    left: 86px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 177px;
+  }
+  
+  .frame-2 .rectangle-4 {
+    height: 117px;
+    left: 89px;
+    position: absolute;
+    top: 4px;
+    width: 170px;
+  }
+  
+  .frame-2 .flex-row-1 {
+    align-items: flex-start;
+    align-self: flex-start;
+    display: flex;
+    height: 47px;
+    margin-top: 94px;
+    min-width: 430px;
+  }
+  
+  .frame-2 .rectangle-2 {
+    background-color: #d9d9d9;
+    border-radius: 69px;
+    height: 16px;
+    margin-top: 1px;
+    width: 122px;
+  }
+  
+  .frame-2 .a-social-network-for {
+    color: var(--black);
+    font-family: var(--font-family-istok_web-regular);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 31px;
+    min-height: 47px;
+    text-align: center;
+    width: 127px;
+  }
+  
+  .frame-2 .rectangle-3 {
+    background-color: #d9d9d9;
+    border-radius: 51px;
+    height: 16px;
+    margin-left: 28px;
+    margin-top: 1px;
+    width: 122px;
+  }
